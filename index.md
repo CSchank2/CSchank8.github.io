@@ -14,3 +14,5 @@ Welcome to my website! I'm glad to have you here.
 ![A Puppy](https://publicdomainpictures.net/pictures/30000/velka/yorkie-puppy.jpg)
 
 ![Another Puppy](https://c1.peakpx.com/wallpaper/1019/843/819/dog-puppy-golden-retriever-wallpaper.jpg)
+
+![My Uploaded Picture of a Puppy](puppy3.jpg)
