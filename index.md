@@ -1,6 +1,6 @@
 ## Software Architect's Website
 
-Welcome to my website! I'm glad to have you here.
+Welcome to my website! I'm glad to have you here. [YouTube](https://youtube.com)
 
 ### My Favourite Foods
 
@@ -15,4 +15,4 @@ Welcome to my website! I'm glad to have you here.
 
 ![Another Puppy](https://c1.peakpx.com/wallpaper/1019/843/819/dog-puppy-golden-retriever-wallpaper.jpg)
 
-![My Uploaded Picture of a Puppy](puppy3.jpg)
+[![My Uploaded Picture of a Puppy](puppy3.jpg)](https://youtube.com)
