@@ -1,5 +1,7 @@
 ## Software Architect's Website
 
+[Learn more about me!](about)
+
 Welcome to my website! I'm glad to have you here. [YouTube](https://youtube.com)
 
 ### My Favourite Foods
